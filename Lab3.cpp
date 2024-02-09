@@ -65,7 +65,7 @@ int main() {
 	cout << setw(inputSpacing) << right << " " << AnnualInterestRate << endl;
 	cout << "Febuary, 2024" << endl << endl;
 
-
+	//github
 
 	cout << setw(spacing) << left << "Loan Amount: ";
 	cout << setw(inputSpacing) << right << " " << "$" << loanAmount << endl;
